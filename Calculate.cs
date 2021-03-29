@@ -13,22 +13,21 @@ namespace HelloWorld
             l4 = v4;
             l5 = v5;
             l6 = v6;
-            l7 = v7;            
+            l7 = v7;  
+            l1 = v1;
+            l2 = v2;
+            l3 = v3;
+            l4 = v4;
+            l5 = v5;
+            l6 = v6;
+            l7 = v7;  
             if (l9 == 0)
             {
                 if (l1 > l2) 
                 {
                     return;
                 }
-                else
-                {
-                    l1 =l1 + 1; 
-                }
-                if (l2 > l3) 
-                {
-                    return;
-                }
-                else
+               else
                 { 
                 l2 = l2 + 1;
                 } 
