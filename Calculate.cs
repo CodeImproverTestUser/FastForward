@@ -76,16 +76,6 @@ namespace HelloWorld
                 { 
                 l3 = l3 + 1;
                 }  
-                
-                if (l6 > l7) 
-                {
-                    return;
-                }
-                else
-                { 
-                l6 = l6 + 1;
-                l7 = l7 + 1;
-                }  
             }                      
         }
         public int Sum()
